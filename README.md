@@ -150,6 +150,21 @@ To ensure reliable results, the team:
 - `requirements.txt` — Python libraries required to run the notebook.
 - `README.md` — Project overview, methodology, and key findings.
 
+## How to Run the Project
+
+1. Download or clone this repository.
+2. Install the required Python libraries:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Open `IE6400_Project1_Complete.ipynb` in Jupyter Notebook.
+4. Place the original instructional dataset, `IE6400_Project1_UrbanCrime_Instructional.csv`, in the same working directory as the notebook.
+5. Run the notebook cells in order.
+
+**Dataset Availability:** The original instructional dataset was provided for academic coursework and is not included in this public repository. The notebook contains saved analytical results and visualizations that can be viewed without running the code.
+
 ## Project Contributors
 
 This project was completed collaboratively as part of Northeastern University's IE 6400 Foundations for Data Analytics Engineering course.
