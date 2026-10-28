@@ -145,8 +145,10 @@ To ensure reliable results, the team:
 
 ## Project Files
 
-- `IE6400_Project1_Complete.ipynb` — Jupyter Notebook containing Python code, statistical analysis, and visualizations.
-- `README.md` — Project documentation and key findings.
+- `IE6400_Project1_Complete.ipynb` — Complete Python analysis, statistical tests, and visualizations.
+- `IE6400_Project1_Final_Report.pdf` — Collaborative graduate project report.
+- `requirements.txt` — Python libraries required to run the notebook.
+- `README.md` — Project overview, methodology, and key findings.
 
 ## Project Contributors
 
